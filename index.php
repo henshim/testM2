@@ -35,6 +35,9 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
+                <a class="nav-link" href="index.php">Trang chủ</a>
+            </li>
+            <li class="nav-item">
                 <a class="btn btn-success" href="index.php?page=product&action=add">Thêm sản phẩm</a>
             </li>
         </ul>

@@ -17,7 +17,7 @@
     </div>
     <div class="form-group">
         <label for="exampleFormControlSelect2">Số lượng</label>
-        <input type="text" class="form-control" value="<?php echo $product['amount']?>"id="exampleFormControlInput1" placeholder="" required="" name="amount">
+        <input type="number" class="form-control" value="<?php echo $product['amount']?>"id="exampleFormControlInput1" placeholder="" required="" name="amount">
     </div>
     <div class="form-group">
         <label for="exampleFormControlTextarea1">Mô tả</label>
